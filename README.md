@@ -44,6 +44,6 @@
 [instagram]: https://www.instagram.com/debo_optimistic/
 [hackerrank]:https://www.hackerrank.com/debo_optimistic
 [facebook]:https://m.facebook.com/profile.php?id=100004571019383&ref=content_filter
-[geeksforgeeks]:https://auth.geeksforgeeks.org/user/debabratachatterjee377/todo-done/
+[geeksforgeeks]:https://auth.geeksforgeeks.org/user/debabratachatterjee377/
 
 
